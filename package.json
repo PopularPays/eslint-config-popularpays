@@ -1,0 +1,18 @@
+{
+  "name": "popularpays-lints",
+  "version": "1.0.0",
+  "description": "Collection of all of popularpays linting rules for eslint, sass-lint, template-lint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "sass-lint",
+    "template-lint",
+    "ember",
+    "popularpays"
+  ],
+  "author": "Nick Steffens <nick@popularpays.com>",
+  "license": "MIT"
+}
