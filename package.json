@@ -1,5 +1,5 @@
 {
-  "name": "popularpays-eslint-rules",
+  "name": "eslint-config-popularpays",
   "version": "1.0.0",
   "description": "Collection of all of popularpays linting rules for eslint",
   "main": "index.js",
@@ -9,5 +9,8 @@
     "popularpays"
   ],
   "author": "Nick Steffens <nick@popularpays.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 3"
+}
 }
