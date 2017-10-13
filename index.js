@@ -12,6 +12,9 @@ module.exports = {
     'browser': true
   },
   globals: {
+    "$": true,
+    "server": true,
+    "percySnapshot": true
   },
   rules: {
 
@@ -51,11 +54,14 @@ module.exports = {
     "no-const-assign": 2,
     "no-multiple-empty-lines": [2, { "max": 1 }],
     "no-param-reassign": 0,
+    "no-shadow": 0
+    "no-throw-literal": 0,
     "no-underscore-dangle": 0,
     "no-unused-vars": ["error", { "args": "none" }],
     "no-unused-vars": [2, {"vars": "all", "args": "none"}],
     "object-curly-spacing": 0,
     "object-shorthand": 0,
+    "operator-assignment": [0, "never"],
     "prefer-arrow-callback": 0,
     "prefer-const": 2,
     "prefer-rest-params": 0,

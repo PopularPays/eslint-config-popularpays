@@ -12,5 +12,5 @@
   "license": "MIT",
   "peerDependencies": {
     "eslint": ">= 3"
-}
+  }
 }
