@@ -54,7 +54,7 @@ module.exports = {
     "no-const-assign": 2,
     "no-multiple-empty-lines": [2, { "max": 1 }],
     "no-param-reassign": 0,
-    "no-shadow": 0
+    "no-shadow": 0,
     "no-throw-literal": 0,
     "no-underscore-dangle": 0,
     "no-unused-vars": ["error", { "args": "none" }],
